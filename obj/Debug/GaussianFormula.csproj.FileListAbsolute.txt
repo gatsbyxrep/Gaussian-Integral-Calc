@@ -1,0 +1,10 @@
+C:\Users\Андрей\source\repos\GaussianFormula\GaussianFormula\bin\Debug\GaussianFormula.exe.config
+C:\Users\Андрей\source\repos\GaussianFormula\GaussianFormula\bin\Debug\GaussianFormula.exe
+C:\Users\Андрей\source\repos\GaussianFormula\GaussianFormula\bin\Debug\GaussianFormula.pdb
+C:\Users\Андрей\source\repos\GaussianFormula\GaussianFormula\obj\Debug\GaussianFormula.csprojAssemblyReference.cache
+C:\Users\Андрей\source\repos\GaussianFormula\GaussianFormula\obj\Debug\GaussianFormula.Form1.resources
+C:\Users\Андрей\source\repos\GaussianFormula\GaussianFormula\obj\Debug\GaussianFormula.Properties.Resources.resources
+C:\Users\Андрей\source\repos\GaussianFormula\GaussianFormula\obj\Debug\GaussianFormula.csproj.GenerateResource.cache
+C:\Users\Андрей\source\repos\GaussianFormula\GaussianFormula\obj\Debug\GaussianFormula.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\source\repos\GaussianFormula\GaussianFormula\obj\Debug\GaussianFormula.exe
+C:\Users\Андрей\source\repos\GaussianFormula\GaussianFormula\obj\Debug\GaussianFormula.pdb
